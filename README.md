@@ -16,7 +16,7 @@
 ## 🛠️ Technologies
 
 - .NET 8.0 (works in both)
-- C# 10
+- C# 12
 - System.Text.Json (data serialization)
 - Object Oriented Programming (OOP)
 - Design Pattern **Repository**
