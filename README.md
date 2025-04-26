@@ -6,9 +6,10 @@
 
 ## ✨ Functions
 
-- ➕ Add expenses (description, amount, category)
+- ➕ Add expenses   (description, amount, category)
 - ✏️ Edit expenses  (description, amount, category)
 - ❌ Delete expenses (description, amount, category)
+- 🔄 Update expenses (description, amount, category)
 - 📋 Display all saved expenses
 - 💰 Show total expenses
 - 📅 Create monthly report (with month names in English)
