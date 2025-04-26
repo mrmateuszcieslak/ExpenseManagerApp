@@ -1,0 +1,14 @@
+D:\Projekty\ExpenseManagerApp\ExpenseManagerApp\bin\Debug\net8.0\ExpenseManagerApp.exe
+D:\Projekty\ExpenseManagerApp\ExpenseManagerApp\bin\Debug\net8.0\ExpenseManagerApp.deps.json
+D:\Projekty\ExpenseManagerApp\ExpenseManagerApp\bin\Debug\net8.0\ExpenseManagerApp.runtimeconfig.json
+D:\Projekty\ExpenseManagerApp\ExpenseManagerApp\bin\Debug\net8.0\ExpenseManagerApp.dll
+D:\Projekty\ExpenseManagerApp\ExpenseManagerApp\bin\Debug\net8.0\ExpenseManagerApp.pdb
+D:\Projekty\ExpenseManagerApp\ExpenseManagerApp\obj\Debug\net8.0\ExpenseManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty\ExpenseManagerApp\ExpenseManagerApp\obj\Debug\net8.0\ExpenseManagerApp.AssemblyInfoInputs.cache
+D:\Projekty\ExpenseManagerApp\ExpenseManagerApp\obj\Debug\net8.0\ExpenseManagerApp.AssemblyInfo.cs
+D:\Projekty\ExpenseManagerApp\ExpenseManagerApp\obj\Debug\net8.0\ExpenseManagerApp.csproj.CoreCompileInputs.cache
+D:\Projekty\ExpenseManagerApp\ExpenseManagerApp\obj\Debug\net8.0\ExpenseManagerApp.dll
+D:\Projekty\ExpenseManagerApp\ExpenseManagerApp\obj\Debug\net8.0\refint\ExpenseManagerApp.dll
+D:\Projekty\ExpenseManagerApp\ExpenseManagerApp\obj\Debug\net8.0\ExpenseManagerApp.pdb
+D:\Projekty\ExpenseManagerApp\ExpenseManagerApp\obj\Debug\net8.0\ExpenseManagerApp.genruntimeconfig.cache
+D:\Projekty\ExpenseManagerApp\ExpenseManagerApp\obj\Debug\net8.0\ref\ExpenseManagerApp.dll
