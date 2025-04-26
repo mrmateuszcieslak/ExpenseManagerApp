@@ -30,10 +30,10 @@
 ![obraz](https://github.com/user-attachments/assets/409b0f6c-c702-4051-a52e-7c6176e4ce09)
 
 ![obraz](https://github.com/user-attachments/assets/6906c573-0073-4b36-a50c-6bee44fcade9)
-![obraz](https://github.com/user-attachments/assets/a1704b9b-ccef-41ad-ae66-c6b85f260f3d)
-
 
 ![obraz](https://github.com/user-attachments/assets/bc43bfa9-77ac-40c3-9d99-6b27d6891786)
+
+![obraz](https://github.com/user-attachments/assets/40a1b1a9-9378-4de7-8525-09fc51f37f52)
 
 
 
