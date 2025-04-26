@@ -32,9 +32,9 @@
 ![obraz](https://github.com/user-attachments/assets/6906c573-0073-4b36-a50c-6bee44fcade9)
 # 4. View Expense
 ![obraz](https://github.com/user-attachments/assets/bc43bfa9-77ac-40c3-9d99-6b27d6891786)
-
+# 5. Show Total Expense
 ![obraz](https://github.com/user-attachments/assets/40a1b1a9-9378-4de7-8525-09fc51f37f52)
-
+# 6. Monthly Report
 ![obraz](https://github.com/user-attachments/assets/f65ee7ed-05ad-4a49-bb28-90edb1f66c45)
 
 ![obraz](https://github.com/user-attachments/assets/48ef4421-9aff-4b6b-8b17-01963afb5450)
