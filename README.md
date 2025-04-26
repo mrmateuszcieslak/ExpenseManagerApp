@@ -37,6 +37,7 @@
 
 ![obraz](https://github.com/user-attachments/assets/f65ee7ed-05ad-4a49-bb28-90edb1f66c45)
 
+![obraz](https://github.com/user-attachments/assets/48ef4421-9aff-4b6b-8b17-01963afb5450)
 
 
 
