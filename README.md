@@ -21,7 +21,7 @@
 - Object Oriented Programming (OOP)
 - Design Pattern **Repository**
 
-Screenshots of the application in operation:
+## Screenshots of the application in operation:
 
 ![obraz](https://github.com/user-attachments/assets/dfe858b6-aea6-469c-b7ec-5edb4802f6cc)
 
