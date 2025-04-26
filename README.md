@@ -14,6 +14,7 @@
 - 📅 Create monthly report (with month names in English)
 - 📄 Write and read data from JSON file (`expenses.json`)
 - 🎨 Nice console interface with loading animation (percentage bar)
+- ✅ Validate data (amount must be > 0, date cannot be in the past, description and category cannot be empty)
 
 ## 🛠️ Technologies
 
