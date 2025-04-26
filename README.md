@@ -35,6 +35,9 @@
 
 ![obraz](https://github.com/user-attachments/assets/40a1b1a9-9378-4de7-8525-09fc51f37f52)
 
+![obraz](https://github.com/user-attachments/assets/f65ee7ed-05ad-4a49-bb28-90edb1f66c45)
+
+
 
 
 
