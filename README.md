@@ -24,7 +24,7 @@
 - Design Pattern **Repository**
 
 ## Screenshots of the application in operation:
-# 1. Screen start app
+# 1. Screen Start App
 ![obraz](https://github.com/user-attachments/assets/dfe858b6-aea6-469c-b7ec-5edb4802f6cc)
 # 2. Screen Main Menu
 ![obraz](https://github.com/user-attachments/assets/409b0f6c-c702-4051-a52e-7c6176e4ce09)
